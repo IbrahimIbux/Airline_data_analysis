@@ -10,11 +10,11 @@ Improve pricing strategy: Develop a dynamic pricing model that adapts to market 
 Enhance customer experience: Deliver a seamless and convenient journey—from booking to arrival—to stand out in a competitive market and build stronger customer loyalty.
 ## :hammer_and_wrench: Tools
 - Python 3.x
--Pandas
--NumPy
--Matplotlib
+- Pandas
+- NumPy
+- Matplotlib
 - Seaborn
--Jupyter Notebook
+- Jupyter Notebook
 
 
  :rocket: Key Insights
