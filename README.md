@@ -29,18 +29,18 @@ Analyzing key metrics such as:
 
 Use data insights to revise pricing strategies and optimize flight routes.
 Increase occupancy rate to maximize revenue and reduce costs related to unsold seats.
-💵 Pricing Recommendations
+- 💵 Pricing Recommendations
 
-Reassess ticket prices for each aircraft based on aircraft condition and available facilities.
-Avoid extremes—prices should neither be too low nor too high.
-Implement a balanced pricing model to boost sales and retain customers.
-✈️ Customer Experience and Safety
+○ Reassess ticket prices for each aircraft based on aircraft condition and available facilities.
+○ Avoid extremes—prices should neither be too low nor too high.
+○ Implement a balanced pricing model to boost sales and retain customers.
+- ✈️ Customer Experience and Safety
 
-Efforts to increase occupancy should not compromise safety or customer satisfaction.
-Maintain a strong focus on service quality and regulatory compliance.
-📈 Data-Driven Approach
+○ Efforts to increase occupancy should not compromise safety or customer satisfaction.
+○ Maintain a strong focus on service quality and regulatory compliance.
+- 📈 Data-Driven Approach
 
-Adopt a data-centric mindset in revenue optimization strategies.
-Data-driven decisions help achieve long-term growth and competitive advantage.
+○ Adopt a data-centric mindset in revenue optimization strategies.
+○ Data-driven decisions help achieve long-term growth and competitive advantage.
 
 
