@@ -15,6 +15,8 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
+
  :rocket: Key Insights
  📊 Revenue Analysis Importance
 Analyzing key metrics such as:
