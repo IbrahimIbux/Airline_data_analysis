@@ -21,10 +21,10 @@ Enhance customer experience: Deliver a seamless and convenient journey—from bo
  📊 Revenue Analysis Importance
 Analyzing key metrics such as:
 
-Total revenue per year
-Average revenue per ticket
-Average occupancy per aircraft
-is crucial for identifying profitability drivers in the airline industry.
+- Total revenue per year
+- Average revenue per ticket
+- Average occupancy per aircraft
+  is crucial for identifying profitability drivers in the airline industry.
 🛠️ Strategic Improvements
 
 Use data insights to revise pricing strategies and optimize flight routes.
